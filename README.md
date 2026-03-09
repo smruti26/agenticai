@@ -3,7 +3,7 @@ Agentic-Ai-complete Reference Framework
 
 # Agentic-Ai
 agentic-ai-complete Reference Framework
-URL : https://smruti26.github.io/agenticai/#layers
+URL : https://smruti26.github.io/agenticai
 Agentic AI – A Complete Framework
 
 This website is created for learning and knowledge purposes.
